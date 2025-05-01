@@ -34,8 +34,11 @@ You can explore our project through the website below, which includes an embedde
 
 ## Mentors and Collaborators
 Anastasia Kurakova, Sabnam Pandit
+
 Dr. Marie Roch, Department of Computer Science, SDSU
+
 Dr. Hajar Homayouni, Department of Computer Science, SDSU
+
 Dr. Julian Schäfer-Zimmermann, Max Planck Institute
 
 ## Acknowledgments
