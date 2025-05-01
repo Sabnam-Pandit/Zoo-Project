@@ -15,11 +15,17 @@ This repository contains code and resources for analyzing biodiversity through a
 ## 🗂 Repository Structure
 
 ├── data/ # (Not publicly available) Raw and processed audio data – access restricted as the project is ongoing
+
 ├── hdbscan_clustering/ # Scripts and notebooks for HDBSCAN clustering
+
 ├── kmeans_clustering/ # Scripts and notebooks for K-means clustering
+
 ├── spectrograms/ # Spectrogram generation scripts
+
 ├── time_of_day_analysis/ # Analysis scripts based on the time of day
+
 ├── streamlit_app/ # Interactive Streamlit web application
+
 └── README.md # Project description and setup instructions
 
 ## 🌐 Project Website
