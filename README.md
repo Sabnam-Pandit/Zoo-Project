@@ -14,7 +14,9 @@ This repository contains code and resources for analyzing biodiversity through a
 
 ## 🗂 Repository Structure
 
-├── data/ # (Not publicly available) Raw and processed audio data – access restricted as the project is ongoing
+├── data/ # (Not publicly available) Raw and processed audio data – access restricted as the project is ongoing but you can access the streamlit app with the csv and json data .
+To access the large file csv you can use: (git lfs install
+git clone https://github.com/Sabnam-Pandit/Zoo-Project.git)
 
 ├── hdbscan_clustering/ # Scripts and notebooks for HDBSCAN clustering
 
